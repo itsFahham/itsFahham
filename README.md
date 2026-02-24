@@ -2,19 +2,42 @@
   <img src="header.gif" />
 </p>
 
-<div align="center">
-<img align="right" width="300" src=header.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 🚨 Caution
-⚡ Congratulations you found me  
+> [!CAUTION]
+> ⚡ Congratulations you found me  
 
-### ℹ️ Note
-💻 Application Developer (Apprentice)  
+<br>
 
-### ❗ Important
-📚 Learning Blockchain  
+> [!NOTE]
+> 💻 Application Developer (Apprentice)  
 
-</div>
+<br>
+
+> [!IMPORTANT]
+> 📚 I’m currently learning **Blockchain technology**
+
+<br>
+
+> [!WARNING]
+> 💪 Future Goal: Keep improving and mastering new technologies  
+
+<br>
+
+> [!TIP]
+> 📩 If you're interested in collaborating — I'd love to hear from you!
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="hacker.png" width="300"/>
+
+</td>
+</tr>
+</table>
 
 <!--
 **itsFahham/itsFahham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
