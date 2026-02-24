@@ -2,9 +2,9 @@
   <img src="header.gif" />
 </p>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="width: 60%;">
 
 > [!CAUTION]
 > ⚡ Congratulations you found me  
@@ -24,20 +24,14 @@
 > [!WARNING]
 > 💪 Future Goal: Keep improving and mastering new technologies  
 
-<br>
 
-> [!TIP]
-> 📩 If you're interested in collaborating — I'd love to hear from you!
+</div>
 
-</td>
+<div style="width: 35%; text-align: right;">
+  <img src="zzz.gif" width="300"/>
+</div>
 
-<td width="40%" align="right">
-
-<img src="hacker.png" width="300"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <!--
 **itsFahham/itsFahham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
