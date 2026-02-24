@@ -2,52 +2,47 @@
          HEADER BANNER
 ========================= -->
 <p align="center">
-  <img src="header.gif" width="100%" alt="Banner"/>
+  <img src="header.gif" alt="Banner" width="900" />
 </p>
 
-<h1 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h1>
+<h2 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h2>
 
 <p align="center">
-  <code>&lt;/&gt;</code> <code>&lt;/&gt;</code> <code>&lt;/&gt;</code>
+  <sub>
+    <code>&lt;/&gt;</code> <code>&lt;/&gt;</code> <code>&lt;/&gt;</code>
+  </sub>
 </p>
 
----
+<hr>
 
 <!-- =========================
      ALERTS + RIGHT IMAGE
 ========================= -->
-<table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="65%" valign="top">
+    <td valign="top" width="520">
 
 > [!CAUTION]
 > ⚡ Congratulations you found me
 
-<br>
-
 > [!NOTE]
 > 💻 Application Developer (Apprentice)
-
-<br>
 
 > [!IMPORTANT]
 > 📚 I’m currently learning **Blockchain technology**
 
-<br>
-
 > [!WARNING]
 > 💪 Future Goal: Keep improving and mastering new technologies
 
-
     </td>
-    <td width="35%" valign="top" align="right">
-      <img src="zzz.png" width="300" alt="Hacker"/>
+    <td valign="top" width="320" align="center">
+      <img src="zzz.png" alt="Side image" width="260" />
     </td>
   </tr>
 </table>
 
----
+<hr>
 
 <!-- =========================
-        Skills
+        SKILLS
 ========================= -->
