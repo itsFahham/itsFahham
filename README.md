@@ -40,3 +40,36 @@
 </p>
 
 ---
+
+## 🚀 Tech Stack & Toolbox
+
+### 💙 What I enjoy working with the most
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts" />
+</p>
+
+---
+
+### 🛠️ Technologies I've used so far
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,html,java,python,ts,js,dotnet,nodejs,next,react,express,spring,firebase,mongodb,mysql,postgres" />
+</p>
+
+---
+
+### 👀 Currently exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=haskell" />
+  <span> 👀</span>
+</p>
+
+---
+
+### 🎨 Other Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
