@@ -7,16 +7,12 @@
 
 <h2 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h2>
 
-<p align="center">
-  <code>&lt;/&gt;</code>&nbsp;<code>&lt;/&gt;</code>&nbsp;<code>&lt;/&gt;</code>
-</p>
-
 ---
 
 <!-- =========================
    RIGHT IMAGE (FLOAT STYLE)
 ========================= -->
-<img align="right" src="zzz.png" width="280" alt="side image" />
+<img align="right" src="zzz.gif" width="280" alt="side image" />
 
 > [!CAUTION]
 > ⚡ Congratulations you found me
