@@ -1,6 +1,21 @@
 <p align="center">
   <img src="header.gif" />
 </p>
+
+<div align="center">
+<img align="right" width="300" src=header.gif"/>
+
+### 🚨 Caution
+⚡ Congratulations you found me  
+
+### ℹ️ Note
+💻 Application Developer (Apprentice)  
+
+### ❗ Important
+📚 Learning Blockchain  
+
+</div>
+
 <!--
 **itsFahham/itsFahham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
