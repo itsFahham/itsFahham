@@ -1,18 +1,32 @@
+<!-- =========================
+         HEADER BANNER
+========================= -->
 <p align="center">
-  <img src="header.gif" />
+  <img src="header.gif" width="100%" alt="Banner"/>
 </p>
 
+<h1 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h1>
+
+<p align="center">
+  <code>&lt;/&gt;</code> <code>&lt;/&gt;</code> <code>&lt;/&gt;</code>
+</p>
+
+---
+
+<!-- =========================
+     ALERTS + RIGHT IMAGE
+========================= -->
 <table>
-<tr>
-<td width="65%" valign="top">
+  <tr>
+    <td width="65%" valign="top">
 
 > [!CAUTION]
-> ⚡ Congratulations you found me  
+> ⚡ Congratulations you found me
 
 <br>
 
 > [!NOTE]
-> 💻 Application Developer (Apprentice)  
+> 💻 Application Developer (Apprentice)
 
 <br>
 
@@ -22,29 +36,18 @@
 <br>
 
 > [!WARNING]
-> 💪 Future Goal: Keep improving and mastering new technologies  
+> 💪 Future Goal: Keep improving and mastering new technologies
 
-</td>
 
-<td width="35%" valign="top" align="right">
-
-<img src="zzz.png" width="280"/>
-
-</td>
-</tr>
+    </td>
+    <td width="35%" valign="top" align="right">
+      <img src="zzz.png" width="300" alt="Hacker"/>
+    </td>
+  </tr>
 </table>
 
-<!--
-**itsFahham/itsFahham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- =========================
+        Skills
+========================= -->
