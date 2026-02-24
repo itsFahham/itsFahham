@@ -32,3 +32,11 @@
 <br clear="right"/>
 
 ---
+
+<p align="center">
+  <a href="#skills">
+    <img src="skills.gif" width="100%" alt="Skills"/>
+  </a>
+</p>
+
+---
