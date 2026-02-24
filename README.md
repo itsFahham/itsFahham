@@ -2,25 +2,21 @@
          HEADER BANNER
 ========================= -->
 <p align="center">
-  <img src="header.gif" alt="Banner" width="900" />
+  <img src="header.gif" alt="Banner" width="950" />
 </p>
 
 <h2 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h2>
 
 <p align="center">
-  <sub>
-    <code>&lt;/&gt;</code> <code>&lt;/&gt;</code> <code>&lt;/&gt;</code>
-  </sub>
+  <code>&lt;/&gt;</code>&nbsp;<code>&lt;/&gt;</code>&nbsp;<code>&lt;/&gt;</code>
 </p>
 
-<hr>
+---
 
 <!-- =========================
-     ALERTS + RIGHT IMAGE
+   RIGHT IMAGE (FLOAT STYLE)
 ========================= -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="520">
+<img align="right" src="zzz.png" width="280" alt="side image" />
 
 > [!CAUTION]
 > ⚡ Congratulations you found me
@@ -34,15 +30,9 @@
 > [!WARNING]
 > 💪 Future Goal: Keep improving and mastering new technologies
 
-    </td>
-    <td valign="top" width="320" align="center">
-      <img src="zzz.png" alt="Side image" width="260" />
-    </td>
-  </tr>
-</table>
+> [!TIP]
+> 🤝 If you’re interested in collaborating — I’d love to hear from you!
 
-<hr>
+<br clear="right"/>
 
-<!-- =========================
-        SKILLS
-========================= -->
+---
