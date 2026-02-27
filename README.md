@@ -85,10 +85,10 @@
 
 ---
 
-### 🕹️ Hobbies
-
-<p>
-  <img src="gaming.gif" width="60"/>
-  <img src="music.gif" width="60"/>
-  <img src="gym.gif" width="60"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gym-111111?style=for-the-badge&logo=googlefit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Skiing-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Motorcycles-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Formula%201-E10600?style=for-the-badge&logo=formula1&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gaming-6A0DAD?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
