@@ -75,6 +75,8 @@
 
 ---
 
+
+
 <p align="center">
   <a href="#hobbies">
     <img src="hobbies.gif" width="100%" alt="Skills"/>
@@ -82,3 +84,11 @@
 </p>
 
 ---
+
+### 🕹️ Hobbies
+
+<p>
+  <img src="gaming.gif" width="60"/>
+  <img src="music.gif" width="60"/>
+  <img src="gym.gif" width="60"/>
+</p>
