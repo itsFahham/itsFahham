@@ -60,7 +60,6 @@
 ### 👀 Currently exploring
 <p>
   <img src="https://skillicons.dev/icons?i=haskell" />
-  <span> 👀</span>
 </p>
 
 ---
