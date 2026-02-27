@@ -72,3 +72,13 @@
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
+
+---
+
+<p align="center">
+  <a href="#hobbies">
+    <img src="hobbies.gif" width="100%" alt="Skills"/>
+  </a>
+</p>
+
+---
