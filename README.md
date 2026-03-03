@@ -85,20 +85,29 @@
 
 ---
 
-<p align="center">
-  <img src="gym.png" width="170" />
-  &nbsp;&nbsp;
-  <img src="ski.png" width="170" />
-  &nbsp;&nbsp;
-  <img src="motorcycle.png" width="170" />
-</p>
 
-<br>
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+  <img src="gym.png" width="95%" />
+</td>
+<td width="33%" align="center">
+  <img src="ski.png" width="95%" />
+</td>
+<td width="33%" align="center">
+  <img src="motorcycle.png" width="95%" />
+</td>
+</tr>
 
-<p align="center">
-  <img src="f1.png" width="170" />
-  &nbsp;&nbsp;
-  <img src="gaming.png" width="170" />
-  &nbsp;&nbsp;
-  <img src="hike.png" width="170" />
-</p>
+<tr>
+<td align="center">
+  <img src="f1.png" width="95%" />
+</td>
+<td align="center">
+  <img src="gaming.png" width="95%" />
+</td>
+<td align="center">
+  <img src="explore.png" width="95%" />
+</td>
+</tr>
+</table>
