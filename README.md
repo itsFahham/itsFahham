@@ -86,28 +86,14 @@
 ---
 
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-  <img src="gym.png" width="95%" />
-</td>
-<td width="33%" align="center">
-  <img src="ski.png" width="95%" />
-</td>
-<td width="33%" align="center">
-  <img src="motorcycle.png" width="95%" />
-</td>
-</tr>
+<p align="center">
+  <img src="gym.png" width="32%" />
+  <img src="ski.png" width="32%" />
+  <img src="motorcycle.png" width="32%" />
+</p>
 
-<tr>
-<td align="center">
-  <img src="f1.png" width="95%" />
-</td>
-<td align="center">
-  <img src="gaming.png" width="95%" />
-</td>
-<td align="center">
-  <img src="explore.png" width="95%" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="f1.png" width="32%" />
+  <img src="gaming.png" width="32%" />
+  <img src="hike.png" width="32%" />
+</p>
