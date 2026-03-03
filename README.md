@@ -100,5 +100,5 @@
   &nbsp;&nbsp;
   <img src="gaming.png" width="170" />
   &nbsp;&nbsp;
-  <img src="extra.png" width="170" />
+  <img src="hike.png" width="170" />
 </p>
