@@ -2,7 +2,7 @@
          HEADER BANNER
 ========================= -->
 <p align="center">
-  <img src="header.gif" alt="Banner" width="950" />
+  <img src="\images\header.gif" alt="Banner" width="950" />
 </p>
 
 <h2 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h2>
@@ -12,7 +12,7 @@
 <!-- =========================
    RIGHT IMAGE (FLOAT STYLE)
 ========================= -->
-<img align="right" src="zzz.gif" width="280" alt="side image" />
+<img align="right" src="\images\zzz.gif" width="280" alt="side image" />
 
 > [!CAUTION]
 > ⚡ Congratulations you found me
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="#skills">
-    <img src="skills.gif" width="100%" alt="Skills"/>
+    <img src="\images\skills.gif" width="100%" alt="Skills"/>
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="#hobbies">
-    <img src="hobbies.gif" width="100%" alt="Skills"/>
+    <img src="\images\hobbies.gif" width="100%" alt="Skills"/>
   </a>
 </p>
 
@@ -89,21 +89,21 @@
 
 
 <p align="center">
-  <img src="gym.png" width="32%" />
-  <img src="ski.png" width="32%" />
-  <img src="motorcycle.png" width="32%" />
+  <img src="\images\gym.png" width="32%" />
+  <img src="\images\ski.png" width="32%" />
+  <img src="\images\motorcycle.png" width="32%" />
 </p>
 
 <p align="center">
-  <img src="f1.png" width="32%" />
-  <img src="gaming.png" width="32%" />
-  <img src="hike.png" width="32%" />
+  <img src="\images\f1.png" width="32%" />
+  <img src="\images\gaming.png" width="32%" />
+  <img src="\images\hike.png" width="32%" />
 </p>
 
 
 <p align="center">
   <a href="#cya">
-    <img src="bye.gif" width="100%" alt="Skills"/>
+    <img src="\images\bye.gif" width="100%" alt="Skills"/>
   </a>
 </p>
 
