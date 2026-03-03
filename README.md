@@ -86,9 +86,19 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gym-111111?style=for-the-badge&logo=googlefit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Skiing-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Motorcycles-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Formula%201-E10600?style=for-the-badge&logo=formula1&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gaming-6A0DAD?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="gym.png" width="170" />
+  &nbsp;&nbsp;
+  <img src="ski.png" width="170" />
+  &nbsp;&nbsp;
+  <img src="motorcycle.png" width="170" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="f1.png" width="170" />
+  &nbsp;&nbsp;
+  <img src="gaming.png" width="170" />
+  &nbsp;&nbsp;
+  <img src="extra.png" width="170" />
 </p>
