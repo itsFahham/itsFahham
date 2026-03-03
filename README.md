@@ -27,7 +27,7 @@
 > 💪 Future Goal: Keep improving and mastering new technologies
 
 > [!TIP]
-> 🤝 If you’re interested in collaborating — I’d love to hear from you!
+> 🤔 If you’re interested in collaborating — I’d love to hear from you!
 
 <br clear="right"/>
 
@@ -43,7 +43,7 @@
 
 ## 🚀 Tech Stack & Toolbox
 
-### 💙 What I enjoy working with the most
+### 😁 What I enjoy working with the most
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
@@ -57,7 +57,7 @@
 
 ---
 
-### 👀 Currently exploring
+### 👀 Future interests
 <p>
   <img src="https://skillicons.dev/icons?i=haskell" />
 </p>
