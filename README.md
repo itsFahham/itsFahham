@@ -99,3 +99,11 @@
   <img src="gaming.png" width="32%" />
   <img src="hike.png" width="32%" />
 </p>
+
+
+<p align="center">
+  <a href="#cya">
+    <img src="bye.gif" width="100%" alt="Skills"/>
+  </a>
+</p>
+
