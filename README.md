@@ -1,5 +1,5 @@
 <!-- =========================
-         HEADER BANNER
+         HEADER
 ========================= -->
 <p align="center">
   <img src="\images\header.gif" alt="Banner" width="950" />
@@ -32,6 +32,11 @@
 <br clear="right"/>
 
 ---
+
+
+<!-- =========================
+         SKILLS SECTION
+========================= -->
 
 <p align="center">
   <a href="#skills">
@@ -77,7 +82,9 @@
 
 ---
 
-
+<!-- =========================
+         HOBBIES SECTION
+========================= -->
 
 <p align="center">
   <a href="#hobbies">
