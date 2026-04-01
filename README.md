@@ -2,7 +2,7 @@
          HEADER
 ========================= -->
 <p align="center">
-  <img src="\images\header.hgif" alt="Banner" width="950" />
+  <img src="\images\header.gif" alt="Banner" width="950" />
 </p>
 
 <h2 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h2>
