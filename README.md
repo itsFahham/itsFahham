@@ -2,7 +2,7 @@
          HEADER
 ========================= -->
 <p align="center">
-  <img src="\images\header.gif" alt="Banner" width="950" />
+  <img src="images/header.gif" alt="Banner" width="950" />
 </p>
 
 <h2 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h2>
@@ -12,7 +12,7 @@
 <!-- =========================
    RIGHT IMAGE (FLOAT STYLE)
 ========================= -->
-<img align="right" src="\images\zzz.gif" width="280" alt="side image" />
+<img align="right" src="images/zzz.gif" width="280" alt="side image" />
 
 > [!CAUTION]
 > ⚡ Congratulations you found me
@@ -27,7 +27,7 @@
 > 💪 Future Goal: Keep improving and mastering new technologies
 
 > [!TIP]
-> 🤔 If you’re interested in collaborating — I’d love to hear from you!
+> 🤔 If you’re interested in collaborating, I’d love to hear from you!
 
 <br clear="right"/>
 
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="#skills">
-    <img src="\images\skills.gif" width="100%" alt="Skills"/>
+    <img src="images/skills.gif" width="100%" alt="Skills"/>
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 ### 🛠️ Technologies I've used so far
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,html,java,python,ts,js,dotnet,nodejs,next,react,express,spring,firebase,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=cs,html,java,python,ts,js,rust,go,dotnet,nodejs,next,react,express,spring,firebase,mongodb,mysql,postgres" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="#hobbies">
-    <img src="\images\hobbies.gif" width="100%" alt="Skills"/>
+    <img src="images/hobbies.gif" width="100%" alt="Hobbies"/>
   </a>
 </p>
 
@@ -96,21 +96,20 @@
 
 
 <p align="center">
-  <img src="\images\gym.png" width="32%" />
-  <img src="\images\ski.png" width="32%" />
-  <img src="\images\motorcycle.png" width="32%" />
+  <img src="images/gym.png" width="32%" alt="Gym" />
+  <img src="images/ski.png" width="32%" alt="Ski" />
+  <img src="images/motorcycle.png" width="32%" alt="Motorcycle" />
 </p>
 
 <p align="center">
-  <img src="\images\f1.png" width="32%" />
-  <img src="\images\gaming.png" width="32%" />
-  <img src="\images\hike.png" width="32%" />
+  <img src="images/f1.png" width="32%" alt="F1" />
+  <img src="images/gaming.png" width="32%" alt="Gaming" />
+  <img src="images/hike.png" width="32%" alt="Hike" />
 </p>
 
 
 <p align="center">
   <a href="#cya">
-    <img src="\images\bye.gif" width="100%" alt="Skills"/>
+    <img src="images/bye.gif" width="100%" alt="Bye"/>
   </a>
 </p>
-
