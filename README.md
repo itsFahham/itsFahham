@@ -39,7 +39,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="images/skills.gif" width="100%" alt="Skills"/>
+  <img src="images/skills-banner.gif" width="100%" alt="Skills"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="images/hobbies.gif" width="100%" alt="Hobbies"/>
+  <img src="images/hobbies-banner.gif" width="100%" alt="Hobbies"/>
 </p>
 
 ---
@@ -105,5 +105,5 @@
 
 
 <p align="center">
-  <img src="images/bye.gif" width="100%" alt="Bye"/>
+  <img src="images/bye-banner.gif" width="100%" alt="Bye"/>
 </p>
