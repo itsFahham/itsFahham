@@ -12,7 +12,7 @@
 <!-- =========================
    RIGHT IMAGE (FLOAT STYLE)
 ========================= -->
-<img align="right" src="images/zzz.gif" width="280" alt="side image" />
+<img align="right" src="images/zzz.gif" width="30%" alt="side image" />
 
 > [!CAUTION]
 > ⚡ Congratulations you found me
@@ -39,9 +39,7 @@
 ========================= -->
 
 <p align="center">
-  <a href="#skills">
-    <img src="images/skills.gif" width="100%" alt="Skills"/>
-  </a>
+  <img src="images/skills.gif" width="100%" alt="Skills"/>
 </p>
 
 ---
@@ -87,9 +85,7 @@
 ========================= -->
 
 <p align="center">
-  <a href="#hobbies">
-    <img src="images/hobbies.gif" width="100%" alt="Hobbies"/>
-  </a>
+  <img src="images/hobbies.gif" width="100%" alt="Hobbies"/>
 </p>
 
 ---
@@ -109,7 +105,5 @@
 
 
 <p align="center">
-  <a href="#cya">
-    <img src="images/bye.gif" width="100%" alt="Bye"/>
-  </a>
+  <img src="images/bye.gif" width="100%" alt="Bye"/>
 </p>
